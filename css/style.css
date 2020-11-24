@@ -25,7 +25,7 @@ body {
     height: 200px;
     width: 400px;
 
-    background: url(./assets/background.png) no-repeat;
+    background: url(../images/background.png) no-repeat;
     background-size: cover;
 
     padding: 20px;
@@ -54,18 +54,17 @@ a{
 }
 
 a:hover {
-    color: rgb(87, 77, 77)
-    
+    color: rgb(87, 77, 77);
 }
 
 #instagram {
-    list-style-image: url(./assets/Insta.png);
+    list-style-image: url(../images/Insta.png);
 }
 
 #twitter {
-    list-style-image: url(./assets/Twitter.png);
+    list-style-image: url(../images/Twitter.png);
 }
 
 #youtube {
-    list-style-image: url(./assets/Youtube.png);
+    list-style-image: url(../images/Youtube.png);
 }
