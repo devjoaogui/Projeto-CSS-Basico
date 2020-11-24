@@ -25,7 +25,7 @@ body {
     height: 200px;
     width: 400px;
 
-    background: url(/assets/background.png) no-repeat;
+    background: url(./assets/background.png) no-repeat;
     background-size: cover;
 
     padding: 20px;
@@ -59,13 +59,13 @@ a:hover {
 }
 
 #instagram {
-    list-style-image: url(/assets/Insta.png);
+    list-style-image: url(./assets/Insta.png);
 }
 
 #twitter {
-    list-style-image: url(/assets/Twitter.png);
+    list-style-image: url(./assets/Twitter.png);
 }
 
 #youtube {
-    list-style-image: url(/assets/Youtube.png);
+    list-style-image: url(./assets/Youtube.png);
 }
